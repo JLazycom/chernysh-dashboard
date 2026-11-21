@@ -1,0 +1,11 @@
+node_modules
+dist
+backup-*
+project-code.txt
+check-log.txt
+deploy-log.txt
+*.log
+.env
+.env.*
+*.local
+.DS_Store
